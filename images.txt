@@ -2,6 +2,6 @@
 #mysql:latest
 #kafka:latest
 #openjdk
-nginx-ingress-controller
+quay.io/kubernetes-ingress-controller/nginx-ingress-controller
 #zookeeper:latest
 #elasticsearch:8.3.1
