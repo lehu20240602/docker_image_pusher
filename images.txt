@@ -1,6 +1,6 @@
 #redis:latest
 #mysql:latest
 #kafka:latest
-openjdk:11-jre-slim:latest
+openjdk
 #zookeeper:latest
 #elasticsearch:8.3.1
