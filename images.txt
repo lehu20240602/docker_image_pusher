@@ -1,6 +1,6 @@
 #redis:latest
 #mysql:latest
-#kafka:latest
+kafka
 #openjdk
 quay.io/kubernetes-ingress-controller/nginx-ingress-controller
 #zookeeper:latest
