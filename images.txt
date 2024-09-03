@@ -1,6 +1,7 @@
 #redis:latest
 #mysql:latest
 #kafka:latest
-openjdk
+#openjdk
+nginx-ingress-controller
 #zookeeper:latest
 #elasticsearch:8.3.1
