@@ -1,7 +1,8 @@
 #redis:latest
 #mysql:latest
-kafka
+#kafka
 #openjdk
-quay.io/kubernetes-ingress-controller/nginx-ingress-controller
+mongo
+#quay.io/kubernetes-ingress-controller/nginx-ingress-controller
 #zookeeper:latest
 #elasticsearch:8.3.1
