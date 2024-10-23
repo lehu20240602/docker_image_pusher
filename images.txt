@@ -2,7 +2,7 @@
 #mysql:latest
 #kafka
 #openjdk
-mongo:4.4.13
+keycloak
 #quay.io/kubernetes-ingress-controller/nginx-ingress-controller
 #zookeeper:latest
 #elasticsearch:8.3.1
